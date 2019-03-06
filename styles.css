@@ -242,7 +242,6 @@
     }
     .mobile_menu > img{
         visibility: visible;
-        border: 1px solid red;
         margin-top: -25px;
 
     }
