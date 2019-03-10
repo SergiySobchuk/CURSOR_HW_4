@@ -84,7 +84,7 @@
     margin-top: 30px;
 }
 #main-bottom{
-    height: 68px;
+    height: 10%;
     display: flex;
     justify-content: space-between;
 }
