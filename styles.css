@@ -9,22 +9,23 @@
     height: 628px;
     background: url("img/landscape.png") no-repeat;
 }
-#main_top{
+#main-top{
     display: flex;
     justify-content: center;
+    height: auto%;
 }
-#main_top_menu{
+#main-top-menu{
     margin-top: 5%;
     background: white;
     width: 90%;
     display: flex;
     border-radius: 20px;
 }
-#main_top_menu-left{
+#main-top-menu-left{
     display: flex;
     width: 70%;
 }
-#main_top_menu-right{
+#main-top-menu-right{
     display: flex;
     width: 30%;
     justify-content: flex-end;
